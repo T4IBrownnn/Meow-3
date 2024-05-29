@@ -1,11 +1,11 @@
 window.onload = function() {
     // List of image links
     var imageLinks = [
-      src = "https://www.the-sun.com/wp-content/uploads/sites/6/2023/10/KS-crunchy-cat-comp.jpg?w=1280&quality=44", 
+      src = URL("https://www.the-sun.com/wp-content/uploads/sites/6/2023/10/KS-crunchy-cat-comp.jpg?w=1280&quality=44", 
   
-        //"https://i.pinimg.com/474x/d4/ee/92/d4ee92141af53b070c58465156674927.jpg", 
+        "https://i.pinimg.com/474x/d4/ee/92/d4ee92141af53b070c58465156674927.jpg", 
   
-        //"https://i.pinimg.com/564x/88/2d/de/882ddeebbd336b9c5f084c3eec7572dc.jpg", 
+        "https://i.pinimg.com/564x/88/2d/de/882ddeebbd336b9c5f084c3eec7572dc.jpg", 
   
         "https://i.pinimg.com/564x/8b/13/8b/8b138bc4aaf3beba650adc8de6db445b.jpg", 
   
@@ -63,7 +63,7 @@ window.onload = function() {
   
         "https://media1.tenor.com/m/Yn8OFus9tikAAAAd/boomshakalaka.gif",
       
-      "https://d2w9rnfcy7mm78.cloudfront.net/27231080/original_ecb172294a5f2378bd636c07e49bfb8c.gif?1711583703?bc=0",
+      "https://d2w9rnfcy7mm78.cloudfront.net/27231080/original_ecb172294a5f2378bd636c07e49bfb8c.gif?1711583703?bc=0",)
       // Add more image links here
     ];
   
